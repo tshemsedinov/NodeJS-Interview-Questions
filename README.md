@@ -1,6 +1,10 @@
-# ✨🐢 NodeJS 2024 🚀✨ Вопросы для собеседований
+# ✨🐢 NodeJS 2024 🚀✨ Питання для співбесід
 
-> Вопросы и рекомендации по проведению интервью для прикладных и системных бекенд разработчиков.
+> Питання та рекомендації для співбесід щодо Node.js.
+> Переклади:
+> [EN](https://github.com/tshemsedinov/NodeJS-Interview-Questions/tree/en),
+> [UA](https://github.com/tshemsedinov/NodeJS-Interview-Questions/tree/ua),
+> [RU](https://github.com/tshemsedinov/NodeJS-Interview-Questions/tree/ru).
 
 - [55 вопросов для собеседования на прикладного бекенд программиста](https://github.com/tshemsedinov/NodeJS-Interview-Questions/blob/main/README.md#55-вопросов-для-собеседования-на-прикладного-бекенд-программиста)
 - [60 вопросов для собеседования на системного Node.js программиста](https://github.com/tshemsedinov/NodeJS-Interview-Questions/blob/main/README.md#60-вопросов-для-собеседования-на-системного-nodejs-программиста)
